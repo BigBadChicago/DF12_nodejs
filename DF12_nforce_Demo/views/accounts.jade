@@ -1,0 +1,7 @@
+h1= title
+p a(href='/accounts/new') Create a new Account
+p a(href='/contacts/new') Create a new Contact
+p Existing Accounts
+ul
+  each item in data
+    li: a(href='/accounts/#{item.getId()}') #{item.Name}

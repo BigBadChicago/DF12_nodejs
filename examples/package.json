@@ -1,0 +1,15 @@
+{
+  "name":"Node_Demo",
+  "version":"0.0.1",
+  "author":"Jonathan Baltz <jonathanbaltz@gmail.com>",
+  "description":"Demonstration code for the node.js session at Dreamforce 12",
+  "dependencies": {
+    "express":"2.5.8",
+    "connect":"2.4.4",
+    "jade":"0.20.3",
+    "socket.io": "0.8.7",
+    "coffee-script": "1.2.0",
+    "heroku":"1.1.59",
+    "nforce": "0.2.0"
+  }
+}

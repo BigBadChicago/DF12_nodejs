@@ -1,0 +1,1 @@
+{"name": "myapp","version": "0.0.1","dependencies": {    "socket.io": "0.8.7",    "coffee-script": "1.2.0",    "heroku":"1.1.59",    "nforce": "0.2.0"    }}

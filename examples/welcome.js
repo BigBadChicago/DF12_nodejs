@@ -1,0 +1,1 @@
+// module.exports = function() {//     return 'Welcome to Dreamforce 2012';// };module.exports = welcomeDF();function welcomeDF() {    return 'Welcome to Dreamforce 2012';}

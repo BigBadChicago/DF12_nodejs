@@ -1,0 +1,15 @@
+{
+  "name":"FreeDrawCanvas",
+  "author":"Jonathan Baltz <jonathanbaltz@gmail.com>",
+  "description":"Multi-User Drawing Space",
+  "version":"0.1.0",
+  "dependencies": {
+    "express":"2.5.8",
+    "jade":"0.20.3",
+    "socket.io":"0.8.7"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
