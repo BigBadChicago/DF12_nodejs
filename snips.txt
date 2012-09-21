@@ -1,0 +1,12 @@
+"engines":{
+	"node":"0.8.x",
+	"npm":"1.1.x"
+}
+
+
+.DS_Store
+node_modules/*
+
+
+
+web: node_modules/*
